@@ -14,7 +14,7 @@ Whether it’s automation, web apps, or content platforms, I love bringing ideas
 - 🌱 Sharpening my skills in **Java, Selenium, and QA automation frameworks**  
 - 📱 Building SaaS consumer apps with **Flutter + Firebase**  
 - ⚡ Exploring **AI, automation bots, and cloud deployment**  
-- 🎥 Running creative projects on **OnlyFans, Kick, and content platforms**  
+- 🎥 Running creative projects on **Youtube, Kick, and content platforms**  
 
 ---
 
